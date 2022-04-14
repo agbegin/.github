@@ -1,4 +1,6 @@
-![galoymoney](../img/galoy-repo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaloyMoney/.github/main/img/galoy-repo.png" width="297" height="72" alt="GaloyMoney - Developing the open source standard for Bitcoin banking" />
+</p>
 
 ## ⚡ Developing the open source standard for Bitcoin banking. ⚡
 
@@ -35,8 +37,8 @@ The GaloyMoney platform includes foundational parts for launching a Bitcoin bank
 - [**`galoy-pay`**](https://github.com/GaloyMoney/galoy-pay) – A single page app that allows each user of a galoy instance to share their galoy instance vanity url to receive payments via the Lightning Network.
 
 - [**`admin-panel`**](https://github.com/GaloyMoney/admin-panel) – A web application which lets a support team manage users and transactions on their galoy instance.  
-  
-</br></br>
+
+</br>
 
 ## Get Started
 Getting started with Galoy is easy. Yet, there are so many things to learn and explore! We recommend to join the [Galoy Slack](galoymoney-workspace.slack.com) and start with exploring the Galoy API in the [Hackathon environment](https://studio.apollographql.com/graph/galoy-hackathon/home?variant=current).
@@ -50,4 +52,4 @@ Want to work on driving Lightning adoption? Check out the latest job postings at
 ### Further Reading 
 - Galoy was built on the idea that Lightning will replace "Layer 2" networks like Visa and Mastercard. Read the thesis from July 2020: "[Lightning as a Retail Payment System](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef)."
 
-<img width="120" alt="Galoy logo" src="../img/galoy.png">
+<img width="120" alt="Galoy logo" src="https://raw.githubusercontent.com/GaloyMoney/.github/main/img/galoy.png">
