@@ -26,9 +26,9 @@ The GaloyMoney platform includes foundational parts for launching a Bitcoin bank
 
 ### API – API implementation & documention for communicating with a galoy instance backend.
 
-- [**`end-user`**](https://github.com/GaloyMoney/galoy/blob/main/src/graphql/main/schema.graphql) & [**`admin`**](https://github.com/GaloyMoney/galoy/blob/main/src/graphql/admin/schema.graphql) schemas – GraphQL APIs for end-user and admin operations against a galoy instance backend.
+- **`tutorial`** – one [tutorial focused on USD integration](https://studio.apollographql.com/graph/galoy-hackathon/home?variant=current), and another [tutorial with BOLT.Fun](https://bolt.fun/guide/web-services/galoy) to get started.
 
-- [**`api-docs`**](https://studio.apollographql.com/public/galoy-hackathon/home?variant=current) _More coming soon... check out the [BOLT.Fun Guide](https://bolt.fun/guide/web-services/galoy) to get started._
+- [**`documentation`**](https://galoymoney.github.io/galoy/), [**`end-user graphql schema`**](https://github.com/GaloyMoney/galoy/blob/main/src/graphql/main/schema.graphql) & [**`admin graphql schema`**](https://github.com/GaloyMoney/galoy/blob/main/src/graphql/admin/schema.graphql) schemas – GraphQL APIs for end-user and admin operations against a galoy instance backend.
 
 ### Frontend – A collection of repos that can be used by administrators and end-users to interact with a deployed galoy instance.
 
