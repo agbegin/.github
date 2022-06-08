@@ -34,6 +34,8 @@ The GaloyMoney platform includes foundational parts for launching a Bitcoin bank
 
 - [**`galoy-mobile`**](https://github.com/GaloyMoney/galoy-mobile) - Android/iOS mobile wallet for end-users of a galoy instance.
 
+- [**`web-wallet`**](https://github.com/GaloyMoney/web-wallet) – A responsible web wallet that works with any browser.  
+
 - [**`galoy-pay`**](https://github.com/GaloyMoney/galoy-pay) – A single page app that allows each user of a galoy instance to share their galoy instance vanity url to receive payments via the Lightning Network.
 
 - [**`admin-panel`**](https://github.com/GaloyMoney/admin-panel) – A web application which lets a support team manage users and transactions on their galoy instance.  
