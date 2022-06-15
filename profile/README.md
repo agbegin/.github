@@ -43,7 +43,7 @@ The GaloyMoney platform includes foundational parts for launching a Bitcoin bank
 </br>
 
 ## Get Started
-Getting started with Galoy is easy. Yet, there are so many things to learn and explore! We recommend to join the [Galoy Slack](galoymoney-workspace.slack.com) and start with exploring the Galoy API in the [Hackathon environment](https://studio.apollographql.com/graph/galoy-hackathon/home?variant=current).
+Getting started with Galoy is easy. Yet, there are so many things to learn and explore! We recommend to join the [Galoy Workspace](https://chat.galoy.io) and start with exploring the Galoy API in the [Hackathon environment](https://studio.apollographql.com/graph/galoy-hackathon/home?variant=current).
 
 ## Galoy Banking as a Service Implementation 
 Galoy, Inc. is a for-profit company that offers implementation, customization and maintenance. Learn more and reach out at [galoy.io](https://galoy.io).
