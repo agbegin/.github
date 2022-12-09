@@ -2,15 +2,15 @@
   <img src="https://raw.githubusercontent.com/GaloyMoney/.github/main/img/galoy-repo.png" width="297" height="72" alt="GaloyMoney - Developing the open source standard for Bitcoin banking" />
 </p>
 
-## ⚡ Developing the open source standard for Bitcoin banking. ⚡
+## ⚡ Developing the open source standard for bitcoin banking. ⚡
 
-Engineers employed by Galoy lead and actively maintain this free and open source GaloyMoney core Bitcoin banking platform. The platform was originally built as the foundation for the Bitcoin Beach Wallet (See: [Bitcoin Banking for Communities](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)). 
+Engineers employed by Galoy lead and actively maintain this free and open source GaloyMoney core bitcoin banking platform. The platform was originally built as the foundation for the Bitcoin Beach Wallet (See: [Bitcoin Banking for Communities](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)). 
 
 The FOSS project has attracted dozens of open source developers who contribute regularly to the codebase alongside the Galoy engineers. 
 
 GaloyMoney repositories have been forked over 100 times, most notably by [Bitcoin Jungle](https://bitcoinjungle.app/) - a GaloyMoney-based community bank in Costa Rica that seeks to replicate the success of the Bitcoin Beach community with Galoy's proof-of-concept Bitcoin Beach Wallet.
 
-The GaloyMoney platform includes foundational parts for launching a Bitcoin bank:
+The GaloyMoney platform includes foundational parts for launching a bitcoin bank:
 
 ### Infrastructure – for deploying the backend
 - [**`galoy-infra`**](https://github.com/GaloyMoney/galoy-infra) – Terraform modules that can be used to bring up a robust infrastructure implementation suitable for running the galoy stack
@@ -23,6 +23,8 @@ The GaloyMoney platform includes foundational parts for launching a Bitcoin bank
 - [**`price`**](https://github.com/GaloyMoney/price) – Service for providing realtime price data from multiple exchanges via gRPC endpoints.
 
 - [**`dealer`**](https://github.com/GaloyMoney/dealer) – Service for implementing fiat hedging strategies via supported exchanges.
+
+- [**'stablesats-rs'**](https://github.com/GaloyMoney/stablesats-rs) – Stablesats v2, written in rust enables USD accounts in Lightning wallets
 
 ### API – API implementation & documention for communicating with a galoy instance backend.
 
@@ -43,13 +45,10 @@ The GaloyMoney platform includes foundational parts for launching a Bitcoin bank
 </br>
 
 ## Get Started
-Getting started with Galoy is easy. Yet, there are so many things to learn and explore! We recommend to join the [Galoy Workspace](https://chat.galoy.io) and start with exploring the Galoy API in the [Hackathon environment](https://studio.apollographql.com/graph/galoy-hackathon/home?variant=current).
+Getting started with Galoy is easy. Yet, there are so many things to learn and explore! We recommend to join and introduce yourself in the [Galoy Chat](https://chat.galoy.io). You can also view the developer docs site at [dev.galoy.io](https://dev.galoy.io)
 
 ## Galoy Banking as a Service Implementation 
 Galoy, Inc. is a for-profit company that offers implementation, customization and maintenance. Learn more and reach out at [galoy.io](https://galoy.io).
-
-### We're Hiring
-Want to work on driving Lightning adoption? Check out the latest job postings at [Bitcoiner Jobs](https://bitcoinerjobs.com/company/galoy)
 
 ### Further Reading 
 - Galoy was built on the idea that Lightning will replace "Layer 2" networks like Visa and Mastercard. Read the thesis from July 2020: "[Lightning as a Retail Payment System](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef)."
